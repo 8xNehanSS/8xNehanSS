@@ -33,5 +33,3 @@ Here are some of my notable projects:
 I'm always open to collaborating on exciting projects. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/nehan-sudasinghe/).
 
 Let's build something amazing together!
-
-![Nehan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=8xNehanSS&show_icons=true&theme=radical)
